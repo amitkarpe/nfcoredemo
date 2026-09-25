@@ -1,3 +1,4 @@
+# Disabled by runner-economy rollout; preserved for reversible reuse.
 name: Test successful pipeline download with 'nf-core pipelines download'
 
 # Run the workflow when:

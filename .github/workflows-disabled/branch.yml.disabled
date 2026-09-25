@@ -1,3 +1,4 @@
+# Disabled by runner-economy rollout; preserved for reversible reuse.
 name: nf-core branch protection
 # This workflow is triggered on PRs to `main`/`master` branch on the repository
 # It fails when someone tries to make a PR against the nf-core `main`/`master` branch instead of `dev`

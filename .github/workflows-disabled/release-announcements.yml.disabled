@@ -1,3 +1,4 @@
+# Disabled by runner-economy rollout; preserved for reversible reuse.
 name: release-announcements
 # Automatic release toot and tweet anouncements
 on:
